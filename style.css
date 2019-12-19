@@ -1,0 +1,74 @@
+h1 {
+    text-align:center;
+    color:black;
+    text-shadow: 1px 1px 2px black, 0 0 25px white, 0 0 5px gainsboro;
+
+}
+
+p {
+    text-align: center;
+    margin: 25px
+}
+
+div {
+    text-align: center;
+    margin: 25px
+}
+
+#arthur, #tomJerry, #ededdEddy, #kimPossible, #spongeBob {
+    text-align: center;
+    font-size: 25px;
+}
+
+#arthur {
+    color: green
+}
+
+#tomJerry {
+    color: red;
+}
+
+#kimPossible {
+    color: orange;
+}
+
+#ededdEddy {
+    color: blue;
+}
+
+#spongeBob {
+    color: turquoise;
+}
+
+img {
+    align:center;
+    display: block;
+    margin-left:auto;
+    margin-right:auto;
+    width: 40%;
+    border-style: outset;
+    box-shadow: 10px 10px 5px grey
+}
+
+p.finally {
+    font-weight: bolder;
+}
+
+footer {
+    border: 1px;
+
+    outline-color: black;
+    outline-style: dotted;
+    padding:10px;
+    margin:150px
+}
+
+a {
+    display: black;
+    width:130px;
+    
+}
+
+#end {
+    margin-top: 105px;
+}
